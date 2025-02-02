@@ -75,18 +75,11 @@ Data Lakes: Optimización de Ventas mediante Análisis de Carritos Abandonados e
 (https://www.datosciencia.com/portfolio/data-lakes-optimizacion-de-ventas-mediante-analisis-de-carritos-abandonados-en-aws)
 
 
+<br>
+<h2 id="contact">📬 Contact</h2>
+<p>
+📉 Passionate about data science and coding? Me too!<br><br>
+🟣 Let's make something great together. Email me at <a href="mailto:renatadalmeidas@gmail.com">renatadalmeidas@gmail.com</a><br><br>
+🟣 Connect with me on <a href="https://www.linkedin.com/in/renata-d-almeida/">LinkedIn</a> for more updates on my projects and professional endeavors
+</p>
 
-
-
-
-
-
-
-
-
-
-            📉Passionate about data science and coding? Me too! 
-
-              🟣Let’s make something great together. Email me at renatadalmeidas@gmail.com
-
-                    🟣Connect with me on LinkedIn for more updates on my projects and professional endeavors: (https://www.linkedin.com/in/renata-d-almeida/)
